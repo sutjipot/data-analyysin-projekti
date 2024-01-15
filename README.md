@@ -3,7 +3,7 @@ Data analysis project on how income level and the metropolitan area are related 
 
 There are two pre-prepared datasets:
 
-income2017.csv : contains information about Finland the number of taxable income recipients, annual income and these of taxes paid by municipality in 2017. The variables of the data,
+tulot2017.csv : contains information about Finland the number of taxable income recipients, annual income and these of taxes paid by municipality in 2017. The variables of the data,
 
 ek2019.csv :  contains the results of the 2019 parliamentary elections in Finland divided
 by municipality (Alue). In addition, a constituency to which the voting area is belongs to is also
