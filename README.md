@@ -1,4 +1,4 @@
-# data-analyysin-projekti
+# Data Analysis Project
 Data analysis project on how income level and the metropolitan area are related to voting behavior in Finland.
 
 ## Datasets
