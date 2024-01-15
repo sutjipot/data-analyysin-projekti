@@ -12,3 +12,5 @@ included.
 In this project, we explore based on these two data sets (tulot2017.csv and ek2019.csv), how the
 income level and the metropolitan area ( e.g. the voting area) are related to voting behavior in
 Finland.
+
+The final technical report can be seen in the pdf file.
